@@ -525,8 +525,7 @@ function Kittielocal
         $teamviewer
     )
     $currentPath = (Get-Item -Path ".\" -Verbose).FullName
-    if(!$consoleoutput){pathcheck}
-    AmsiBypass
+   
     if ($noninteractive)
     {
         if ($credentialmanager)
