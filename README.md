@@ -1,6 +1,3 @@
-`iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/sp00ks-git/Snaffler/master/Invoke-Snaffler-Sp00ks.ps1')`
-
-
 [![](https://img.shields.io/badge/Donate-Bitcoin-blue.svg?style=flat)](https://blockchain.info/address/1MXReD1F4w5SUXK3phLVJ5M8KrXJHfecmZ)
 
 # Sponsored by
